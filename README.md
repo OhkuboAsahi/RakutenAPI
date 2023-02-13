@@ -31,5 +31,6 @@ APP_URL: http://localhost:8080
 <dt>・ジャンル別ランキング</dt>
 <dd>（順位、商品名、価格、販売元）</dd>
 <dt>・検索機能</dt>
+<dt>・cookie機能
 <dt>・ボタンの位置</dt>
 </dl>
